@@ -1,5 +1,4 @@
 source "https://rubygems.org"
 gem "ruboty"
 gem "ruboty-slack"
-gem "ruboty-kokodeikku"
 gem "ruboty-talk"
