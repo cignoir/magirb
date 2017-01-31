@@ -6,5 +6,5 @@ gem "ruboty-talk"
 gem "ruboty-magi"
 gem "ruboty-zoi"
 gem "ruboty-ruby"
-gem "ruboty-tiqav"
+gem "ruboty-tiqav", github: 'cignoir/ruboty-tiqav'
 #gem "ruboty-lgtm"
