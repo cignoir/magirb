@@ -1,3 +1,11 @@
+GIT
+  remote: git://github.com/cignoir/ruboty-tiqav.git
+  revision: 37ef398311cd9f8c8852ce16eda151e8c18b91b5
+  specs:
+    ruboty-tiqav (0.1.0)
+      ruboty
+      tiqav
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -44,9 +52,6 @@ GEM
     ruboty-talk (0.0.5)
       docomoru (>= 0.0.3)
       ruboty (>= 1.1.0)
-    ruboty-tiqav (0.1.0)
-      ruboty
-      tiqav
     ruboty-zoi (1.1.0)
       ruboty
     slop (4.4.1)
@@ -69,7 +74,7 @@ DEPENDENCIES
   ruboty-ruby
   ruboty-slack
   ruboty-talk
-  ruboty-tiqav
+  ruboty-tiqav!
   ruboty-zoi
 
 BUNDLED WITH
