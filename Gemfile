@@ -8,3 +8,4 @@ gem "ruboty-zoi"
 gem "ruboty-ruby"
 gem "ruboty-tiqav", github: 'cignoir/ruboty-tiqav'
 #gem "ruboty-lgtm"
+gem "ruboty-azurjp", github: 'cignoir/ruboty-azurjp'
